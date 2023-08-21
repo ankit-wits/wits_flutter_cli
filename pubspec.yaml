@@ -1,5 +1,5 @@
 name: wits_flutter_cli
-description: Flutter CLI with options to run nested projects
+description: Flutter CLI which takes module/project name as argument and generated launch.json file.
 version: 1.0.5
 repository: https://github.com/ankit-wits/wits_flutter_cli
 
