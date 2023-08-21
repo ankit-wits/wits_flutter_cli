@@ -15,6 +15,6 @@ void runModule(List<String> arguments) async {
     log("Please provide module name to run");
     return;
   }
-  await run("cd $module");
-  await run("flutter run -t $module/lib/main.dart");
+  // await run("cd $module");
+  await run("flutter run -t lib/main.dart");
 }

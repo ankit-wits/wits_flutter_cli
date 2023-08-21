@@ -1,7 +1,7 @@
 name: wits_flutter_cli
 description: Flutter CLI with options to run nested projects
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+version: 1.0.2
+repository: https://github.com/ankit-wits/wits_flutter_cli
 
 environment:
   sdk: ^3.1.0

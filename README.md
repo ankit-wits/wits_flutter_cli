@@ -1,3 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+
 # wits_flutter_cli
+
+Tool to manage multi module flutter apps
