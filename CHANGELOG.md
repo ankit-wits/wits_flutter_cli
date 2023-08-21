@@ -17,3 +17,7 @@
 ## 1.0.4
 
 - Added error notifiers in case of missing arguments.
+
+## 1.0.5
+
+- Added documentation for the CLI
